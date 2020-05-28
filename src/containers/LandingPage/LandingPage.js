@@ -7,7 +7,7 @@ import Blog from "../Blog/Blog";
 const landingpage = () => {
     return(
         <div className={"Section"}>
-            <h1 className={"Title"}>Welcome to the Blog Posts</h1>
+            <h1 className={"Title"}>Welcome to Sams Amazing the Blog Posts</h1>
             <Blog/>
         </div>
 
